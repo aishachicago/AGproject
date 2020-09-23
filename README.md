@@ -1,2 +1,2 @@
 # AGproject
-Leaning Swift 
+Learning Swift 
